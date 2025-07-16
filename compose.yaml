@@ -1,0 +1,7 @@
+﻿services:
+  twilioazureffmpeg:
+    image: twilioazureffmpeg
+    build:
+      context: .
+      dockerfile: TwilioAzureFFmpeg/Dockerfile
+

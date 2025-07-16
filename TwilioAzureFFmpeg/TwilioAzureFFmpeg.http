@@ -1,0 +1,6 @@
+@TwilioAzureFFmpeg_HostAddress = http://localhost:5051
+
+GET {{TwilioAzureFFmpeg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
