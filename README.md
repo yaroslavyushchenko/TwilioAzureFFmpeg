@@ -1,4 +1,4 @@
-# TwilioAzureFFmpeg
+# Realtime Twilio Audio Transformation for Azure Speech Recognition using FFmpeg in .NET
 
 **Example .NET project** for real‑time conversion of Twilio μ‑law (8 kHz) → 16‑bit PCM WAV and streaming to Azure Speech‑to‑Text via an external FFmpeg process.
 
